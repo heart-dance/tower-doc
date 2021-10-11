@@ -1,8 +1,8 @@
-# 快速开始
+# Quick Start
 
 ## 安装依赖
 
-```
+```shell
 go get -u github.com/go-tower/tower
 ```
 
