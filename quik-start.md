@@ -2,26 +2,26 @@
 
 ## 安装依赖
 
-```shell
+```
 go get -u github.com/go-tower/tower
 ```
 
 ## 启动一个服务
 
-```golang
+```go
 package main
 
 import (
-	"fmt"
-	"github.com/go-tower/tower"
+    "fmt"
+    "github.com/go-tower/tower"
 )
 
 func main() {
-	SockServer := tower.NewBootStrap(&tower.Config{})
-	SockServer.AddRoute(0, func(ctx *tower.Context) {
-		fmt.Println("hello world")
-	})
-	SockServer.Listen()
+    SockServer := tower.NewBootStrap(&tower.Config{})
+    SockServer.AddRoute(0, func(ctx *tower.Context) {
+        fmt.Println("hello world")
+    })
+    SockServer.Listen()
 }
 ```
 
