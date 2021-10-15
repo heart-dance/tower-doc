@@ -2,4 +2,5 @@
 
 * [关于](README.md)
 * [快速开始](quik-start.md)
-* [Page 1](page-1.md)
+* [BootStrap](boot-strap.md)
+* [配置](config.md)
