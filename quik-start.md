@@ -1,12 +1,12 @@
 # Quick Start
 
-## 安装依赖
+## Intall dep
 
 ```shell
 go get -u github.com/go-tower/tower
 ```
 
-## 启动一个服务
+## Start a simple server
 
 ```go
 package main
@@ -25,4 +25,4 @@ func main() {
 }
 ```
 
-服务启动会默认监听 9000 端口
+Server will listen on port `9000` in default.

@@ -1,7 +1,7 @@
 ---
-description: 这是一个 Tower 文档及相关资源的概览页面。
+description: Tower Doc
 ---
 
-# 关于
+# About
 
-**Tower** 是一个`Golang`实现轻量级`TCP`通信框架。
+**Tower** is a lightweight socket server, easy to manage client connection writen by `Golang`
