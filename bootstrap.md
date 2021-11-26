@@ -4,7 +4,7 @@
 
 ## New Instance
 
-```golang
+```go
 package main
 
 import "github.com/go-tower/tower
