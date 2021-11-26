@@ -3,3 +3,4 @@
 - [About](README.md)
 - [Quick Start](quik-start.md)
 - [BootStrap](bootstrap.md)
+- [Config](config.md)

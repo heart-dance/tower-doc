@@ -1,0 +1,3 @@
+# Config
+
+`BootStrap`'s configuration.
