@@ -23,6 +23,10 @@ func main() {
     })
     SockServer.Listen()
 }
+
+// Output
+[Tower] 2021/10/19 03:54:35 Server listener at IP: 0.0.0.0, Port 8999, is starting
+[Tower] 2021/10/19 03:54:35 Start server Tower success, now listening...
 ```
 
-Server will listen on port `9000` in default.
+Server will listen on port `8999` in default.
