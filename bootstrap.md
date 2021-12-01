@@ -1,6 +1,6 @@
 # BootStarp
 
-`BootStrap` is a default launch.
+`BootStrap` is a default launcher.
 
 ## New Instance
 
